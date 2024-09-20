@@ -1,6 +1,7 @@
 **Socket-Based Multi-Threaded Seat Reservation System**
 
 **Overview**
+
 This project is a socket-based multi-threaded seat reservation system implemented in C++. It allows multiple clients to connect to a server and make seat reservations in real-time. The system manages seat availability and provides feedback to clients regarding their reservation requests.
 
 **Features**
