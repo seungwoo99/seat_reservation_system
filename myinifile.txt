@@ -1,0 +1,4 @@
+[connection]
+IP = 172.17.0.2
+Port = 5678
+Timeout = 10
